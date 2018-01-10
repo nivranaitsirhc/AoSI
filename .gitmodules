@@ -1,0 +1,3 @@
+[submodule "ASLib"]
+	path = ASLib
+	url = https://github.com/nivranaitsirhc/ASLib.git
